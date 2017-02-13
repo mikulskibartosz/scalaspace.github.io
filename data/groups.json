@@ -526,6 +526,13 @@
       "justScala": true
     },
     {
+      "name": "Poznan Scala User Group",
+      "url": "http://www.meetup.com/poznanscala",
+      "latitude": 52.405416,
+      "longitude": 16.931488,
+      "justScala": true
+    },
+    {
       "name": "Pune Scala Meetup",
       "url": "punescala",
       "latitude": 18.5203,
